@@ -1,7 +1,12 @@
-## Hi! Hi!! I'm Ekemini Okpongkpong 👋
-[Twitter](https://twitter.com/_Kemmie_)
-[Linkedin](https://www.linkedin.com/in/ekemini-okpongkpong/)
+<p align="center">
+  <b> Hi! Hi!! 👋</b><br>
+  <a href="https://twitter.com/_Kemmie_">Twitter</a> |
+  <a href="https://www.linkedin.com/in/ekemini-okpongkpong/">Linkedin</a> |
+  <a href="https://www.medium.com/@kemmie/">Medium</a>
+  <br>
+</p>
 - 😄 Pronouns: She/Her
+- 💬 Ask me about: Data Analytics, Data Visualization
 <!--
 **KemmieKemy/KemmieKemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
