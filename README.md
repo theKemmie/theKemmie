@@ -1,10 +1,8 @@
-<p align="center">
-  <b> Hi! Hi!! 👋</b><br>
-  <a href="https://twitter.com/_Kemmie_">Twitter</a> |
-  <a href="https://www.linkedin.com/in/ekemini-okpongkpong/">Linkedin</a> |
-  <a href="https://www.medium.com/@kemmie/">Medium</a>
-  <br>
-</p>
+##  Hi! Hi!! 👋
+[Twitter](https://twitter.com/_Kemmie_) |
+[Linkedin](https://www.linkedin.com/in/ekemini-okpongkpong/) |
+[Medium](https://www.medium.com/@kemmie/)
+
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: Data Analytics, Data Visualization
 <!--
