@@ -1,8 +1,11 @@
 ##  Hi! Hi!! 👋
+![Kemmie](Kemmie's_Header.gif)
 [Twitter](https://twitter.com/_Kemmie_) |
 [Linkedin](https://www.linkedin.com/in/ekemini-okpongkpong/) |
 [Medium](https://www.medium.com/@kemmie/)
 
+### More about me
+- 🌱 I’m currently learning Machine Learning
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: Data Analytics, Data Visualization
 <!--
