@@ -1,5 +1,6 @@
 ##  Hi! Hi!! 👋
 <img src="https://github.com/KemmieKemy/KemmieKemy/blob/master/Kemmie's_Header.gif" alt=" ">
+
 [Twitter](https://twitter.com/_Kemmie_) |
 [Linkedin](https://www.linkedin.com/in/ekemini-okpongkpong/) |
 [Medium](https://www.medium.com/@kemmie/)
