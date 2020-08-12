@@ -6,7 +6,7 @@
 [Medium](https://www.medium.com/@kemmie/)
 
 ### More about me
-- 🌱 I’m currently learning: Machine Learning
+- 🌱 I’m currently learning: Machine Learning and Deep Learning
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: Data Analytics, Data Visualization
 <!--
