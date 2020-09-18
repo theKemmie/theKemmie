@@ -1,14 +1,15 @@
 ##  Hi! Hi!! 👋
 <img src="https://github.com/KemmieKemy/KemmieKemy/blob/master/Kemmie's_Header.gif" alt=" ">
-
-[Twitter](https://twitter.com/_Kemmie_) |
-[Linkedin](https://www.linkedin.com/in/ekemini-okpongkpong/) |
-[Medium](https://www.medium.com/@kemmie/)
+<br>
 
 ### More about me
 - 🌱 I’m currently learning: Machine Learning and Deep Learning
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: Data Analytics, Data Visualization
+- 📫 How to reach me:<br>
+[Twitter](https://twitter.com/_Kemmie_) |
+[Linkedin](https://www.linkedin.com/in/ekemini-okpongkpong/) |
+[Medium](https://www.medium.com/@kemmie/)
 <!--
 **KemmieKemy/KemmieKemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
