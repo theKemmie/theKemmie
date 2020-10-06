@@ -7,9 +7,11 @@
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: Data Analytics, Data Visualization
 - 📫 How to reach me:<br>
-[Twitter](https://twitter.com/_Kemmie_) |
-[Linkedin](https://www.linkedin.com/in/ekemini-okpongkpong/) |
-[Medium](https://www.medium.com/@kemmie/)
+<a href="https://twitter.com/_Kemmie_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
+<a href="https://www.linkedin.com/in/ekemini-okpongkpong"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" height=30></a>
+<a href="https://www.medium.com/@kemmie"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a> 
+
+
 <!--
 **KemmieKemy/KemmieKemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
