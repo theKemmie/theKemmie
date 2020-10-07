@@ -1,5 +1,5 @@
 ##  Hi! Hi!! 👋
-<img src="https://github.com/KemmieKemy/KemmieKemy/blob/master/Kemmie's_Header.gif" alt=" ">
+<img src="https://github.com/KemmieKemy/KemmieKemy/blob/master/Kemmie's_Header.gif" alt="Kemmie" align="center" width="500">
 <br>
 
 ### More about me
@@ -12,6 +12,7 @@
 <a href="https://www.medium.com/@kemmie"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a> 
 
 
+<p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=KemmieKemy&show_icons=true" alt="KemmieKemy" /></p>
 <!--
 **KemmieKemy/KemmieKemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
