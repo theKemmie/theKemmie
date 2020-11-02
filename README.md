@@ -2,7 +2,7 @@
 <img src="https://github.com/KemmieKemy/KemmieKemy/blob/master/Kemmie's_Header.gif" alt="Kemmie" align="center" width="500">
 <br>
 
-### More about me
+### More about me;
 - 🌱 I’m currently learning: Machine Learning and Deep Learning
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: Data Analytics, Data Visualization
