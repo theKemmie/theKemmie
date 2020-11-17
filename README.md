@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning: Machine Learning and Deep Learning
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: Data Analytics, Data Visualization
+- ⚡ Fun fact: When I'm not coding or writing articles, I sew dresses 
 - 📫 How to reach me:<br>
 <a href="https://twitter.com/_Kemmie_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
 <a href="https://www.linkedin.com/in/ekemini-okpongkpong"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" height=30></a>
