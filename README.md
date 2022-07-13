@@ -3,7 +3,7 @@
 <br>
 
 ### More about me;
-- 📖 I am a Microsoft Certified: Power BI Analyst Associate
+- 📖 I am a Microsoft Certified: Power BI Analyst Data Associate
 - 🌱 I’m currently learning: Machine Learning and Deep Learning
 - 😄 Pronouns: She/Her
 - 💬 Ask me about: Data Analytics, Data Visualization
