@@ -6,12 +6,17 @@
 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-GoogleSheets-46a13f?style=for-the-badge&logo=GoogleSheets&logoColor=1c3c5f" alt="Google Sheets" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jupyter-d37e02?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI" /> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="TensorFlow" /> </a>
 <br>
 
 ### ✨ Python Libraries that I work with:
 
 <a href="https://github.com/theKemmie/Basic-Python-Codes/tree/master/Programs" target="_blank"> <img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
 <a href="https://github.com/theKemmie/Basic-Python-Codes/tree/master/Programs" target="_blank"> <img src="https://img.shields.io/badge/-Pandas-2c1957?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
+<a href="https://github.com/theKemmie/Data-Visualization-with-Plotly" target="_blank"> <img src="https://img.shields.io/badge/-Plotly-742B94?style=for-the-badge&logo=plotly&logoColor=white" alt="Ploty" /> </a>
+<a href="https://github.com/theKemmie/Diabetes-Prediction-Web-Application/blob/master/Diabetes%20Prediction%20-%20Linear%20Regression.ipynb" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-922A34?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" /> </a>
 
 ### More about me;
 - 📖 I am a Microsoft Certified: Power BI Data Analyst Associate
@@ -25,22 +30,4 @@
 <a href="https://kemmie.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a> 
 <a href="https://dev.to/kemmie"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ekemini Okpongkpong's DEV Profile" height="30" width="30"></a>
 
-<p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=KemmieKemy&show_icons=true" alt="KemmieKemy" /></p>
-<!--
-**KemmieKemy/KemmieKemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<a href="https://github.com/harrygurjr7/Data_Visualisation-"_blank"> <img src="https://img.shields.io/badge/-Matplotlib-3286ae?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-plotly-1c3c5f?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /> </a>
-<a href="https://github.com/harrygurjr7/Data_Visualisation-" target="_blank"> <img src="https://img.shields.io/badge/-seaborn-324b81?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /> </a>
--->
+<p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=theKemmie&show_icons=true" alt="theKemmie" /></p>
