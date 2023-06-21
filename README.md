@@ -31,3 +31,6 @@
 <a href="https://dev.to/kemmie"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ekemini Okpongkpong's DEV Profile" height="30" width="30"></a>
 
 <p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=theKemmie&show_icons=true" alt="theKemmie" /></p>
+
+###  👀 Profile views
+![Visitor Count](https://profile-counter.glitch.me/{theKemmie}/count.svg) 
