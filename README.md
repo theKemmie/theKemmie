@@ -30,7 +30,19 @@
 <a href="https://kemmie.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a> 
 <a href="https://dev.to/kemmie"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ekemini Okpongkpong's DEV Profile" height="30" width="30"></a>
 
-<p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=theKemmie&show_icons=true" alt="theKemmie" /></p>
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> 
+ 
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theKemmie" alt="Kemmie's LangStat"/>
+</div>
+<div>
+  <br />
+  <p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=theKemmie&show_icons=true" alt="theKemmie" /></p>
+  <br />
 
 ###  👀 Profile views
-![Visitor Count](https://profile-counter.glitch.me/{theKemmie}/count.svg) 
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theKemmie&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
