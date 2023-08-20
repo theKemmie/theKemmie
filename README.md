@@ -33,15 +33,10 @@
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> 
  
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theKemmie" alt="Kemmie's LangStat"/>
-</div>
-<div>
-  <br />
   <p>&nbsp;<img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=theKemmie&show_icons=true" alt="theKemmie" /></p>
   <br />
 
-###  👀 Profile views
+##  👀 Profile views
 
 <!-- Profile Views -->
 
